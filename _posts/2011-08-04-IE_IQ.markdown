@@ -1,0 +1,15 @@
+---
+layout: post
+category: link
+title: IE IQ
+---
+
+#	[Internet Explorer story was bogus][BBC]
+
+>	A story which suggested that users of Internet Explorer have a lower IQ than
+>	people who chose other browsers appears to have been an elaborate hoax.
+
+Turns out it wasn't true. But, probably still is.
+
+[BBC]: http://www.bbc.co.uk/news/technology-14389430
+	"BBC News &mdash; Internet Explorer story was bogus"

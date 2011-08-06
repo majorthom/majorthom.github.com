@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Tom Preston-Werner</title>
+ <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
+ <link href="http://tom.preston-werner.com/"/>
+ <updated>2011-08-04T05:04:29-05:00</updated>
+ <id>http://tom.preston-werner.com/</id>
+ <author>
+   <name>Tom Preston-Werner</name>
+   <email>tom@mojombo.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>test</title>
+   <link href="http://tom.preston-werner.com/2011/08/04/test"/>
+   <updated>2011-08-04T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/04/test</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;https://github.com/mojombo/jekyll/&quot; title=&quot;jekyll&quot;&gt;Jekyll&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Testing Jekyll and github as a platform.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>test2</title>
+   <link href="http://tom.preston-werner.com/2011/08/04/secondtest"/>
+   <updated>2011-08-04T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/04/secondtest</id>
+   <content type="html">&lt;h1&gt;Testing&lt;/h1&gt;
+
+&lt;p&gt;A second test.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>last test</title>
+   <link href="http://tom.preston-werner.com/2011/08/04/lasttest"/>
+   <updated>2011-08-04T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/04/lasttest</id>
+   <content type="html">&lt;h1&gt;Final&lt;/h1&gt;
+
+&lt;p&gt;A last test.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IE IQ</title>
+   <link href="http://tom.preston-werner.com/2011/08/04/IE_IQ"/>
+   <updated>2011-08-04T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/04/IE_IQ</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.bbc.co.uk/news/technology-14389430&quot; title=&quot;BBC News &amp;mdash; Internet Explorer story was bogus&quot;&gt;Internet Explorer story was bogus&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  A story which suggested that users of Internet Explorer have a lower IQ than
+  people who chose other browsers appears to have been an elaborate hoax.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Turns out it wasn't true. But, probably still is.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Battleship</title>
+   <link href="http://tom.preston-werner.com/2011/07/29/Battleship"/>
+   <updated>2011-07-29T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/07/29/Battleship</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://trailers.apple.com/trailers/universal/battleship/&quot; title=&quot;Battleship &amp;mdash; Movie Trailer&quot;&gt;Battleship&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;What the hell does this have to do with the &lt;a href=&quot;http://www.hasbro.com/games/en_US/battleship/&quot; title=&quot;Hasbro Games &amp;mdash; Battleship Game&quot;&gt;board game&lt;/a&gt;?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>50 and 50 — The State Mottos</title>
+   <link href="http://tom.preston-werner.com/2011/04/27/50-states-motto"/>
+   <updated>2011-04-27T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/27/50-states-motto</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://statemottosproject.com/gallery/&quot; title=&quot;50 and 50 — The State Mottos&quot;&gt;50 and 50 — The State Mottos&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  Fifty and Fifty is a curated project which attempts to construct a handsome new way of looking at our country. Fifty designers, one per state, will illustrate their state motto, creating something steeped in history but completely modern and unique: a kind of designer's atlas.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Simply amazing.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Apple Sues Samsung</title>
+   <link href="http://tom.preston-werner.com/2011/04/19/apple-sues-samsung"/>
+   <updated>2011-04-19T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/19/apple-sues-samsung</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://thisismynext.com/2011/04/19/apple-sues-samsung-analysis/&quot; title=&quot;Apple Sues Samsung&quot;&gt;Apple sues Samsung: a complete lawsuit analysis&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  Taken as a group, it feels like a remarkably solid case — Samsung can’t just up and countersue Apple with its own patents and hope to walk away with a handshake and a cross-license because of the various trademark, trade dress, and design patent claims. How the company decides to deal with those issues remains to be seen; there’s no question in my mind that Samsung designed TouchWiz to look and feel as much like iOS as possible, and then marketed it as such.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This is a pretty straightforward, dumbed down analysis of Apple's claims against Samsung. Doesn't seem to be much of an argument against most of it—of course, that's why I'm not a lawyer.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kindle With Ads</title>
+   <link href="http://tom.preston-werner.com/2011/04/11/kindle-with-ads"/>
+   <updated>2011-04-11T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/11/kindle-with-ads</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.marketwatch.com/story/amazon-to-offer-cheaper-kindle-with-ads-2011-04-11?siteid=yhoof&quot; title=&quot;Amazon to offer cheaper Kindle with ads&quot;&gt;Amazon to offer cheaper Kindle with ads&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  The ad-supported Kindle will cost $114 — $25 less than the cheapest Kindle currently available — and will be available on May 3.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;$25 off? That's it? You'd think they could at least break the psychological $99 barrier. I'll stick to audiobooks on my iPod until there's a color e-ink display for comics.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gift Complaint Form</title>
+   <link href="http://tom.preston-werner.com/2011/04/09/gift-complaint-form"/>
+   <updated>2011-04-09T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/09/gift-complaint-form</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.enjoythisbeautifulday.com/2010/gift-complaint-form/&quot; title=&quot;Gift Complaint Form&quot;&gt;Gift Complaint Form&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;This is design perfection. I'm going to start sending this with every gift.&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;(&lt;a href=&quot;http://www.swiss-miss.com/2011/03/gift-complaint-form.html&quot; title=&quot;Gift Complaint Form&quot;&gt;via swissmiss&lt;/a&gt;)&lt;/cite&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Elliot Jay Stocks on Cloud Set-ups</title>
+   <link href="http://tom.preston-werner.com/2011/04/09/elliot-stocks-on-cloud-computing"/>
+   <updated>2011-04-09T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/09/elliot-stocks-on-cloud-computing</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://elliotjaystocks.com/blog/a-cloud-centric-mac-set-up/&quot; title=&quot;A Cloud-centric Mac set-up&quot;&gt;Elliot Jay Stocks on Cloud Set-ups&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Personally, I'd like to take it further and use only an iMac and an iPad.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pow</title>
+   <link href="http://tom.preston-werner.com/2011/04/08/pow"/>
+   <updated>2011-04-08T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/08/pow</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://pow.cx/&quot; title=&quot;Pow&quot;&gt;Pow&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;New from 37Signals: Pow is a web server for Mac OS X that makes it easy to develop Rails and Rack applications without any configuration.&lt;/p&gt;
+
+&lt;p&gt;I'd love to use stuff like this, but I don't see any reason in my life for it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Garfield Minus Garfield</title>
+   <link href="http://tom.preston-werner.com/2011/04/08/garfield-minus-garfield"/>
+   <updated>2011-04-08T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/08/garfield-minus-garfield</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://garfieldminusgarfield.net/&quot; title=&quot;Garfield Minus Garfield&quot;&gt;Garfield Minus Garfield&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  [Garfield Minus Garfield] is a journey deep into the mind of an isolated young everyman as he fights a losing battle against loneliness and depression in a quiet American suburb.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Amazingly hilarious existential comic strip.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Glenn Beck Canceled</title>
+   <link href="http://tom.preston-werner.com/2011/04/07/glenn-beck-canceled"/>
+   <updated>2011-04-07T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/04/07/glenn-beck-canceled</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://mediadecoder.blogs.nytimes.com/2011/04/06/glenn-beck-to-end-daily-fox-news-program/&quot; title=&quot;Glenn Beck to End Daily Fox News Program&quot;&gt;Glenn Beck to End Daily Fox News Program&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  The joint statement did not specify an end date for Mr. Beck’s show...a
+  spokeswoman referred back to the statement. Mr. Beck’s contract with Fox
+  ends in December.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Should have been canceled two years ago.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

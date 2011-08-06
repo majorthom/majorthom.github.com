@@ -1,0 +1,13 @@
+---
+layout: post
+category: link
+title: test
+date: '2011-08-04 03:25'
+---
+
+#	[Jekyll][]
+
+Testing Jekyll and github as a platform.
+
+[Jekyll]: https://github.com/mojombo/jekyll/
+	"jekyll"

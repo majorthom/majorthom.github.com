@@ -1,0 +1,12 @@
+---
+layout: default
+title: Project 616
+---
+
+<div id="home">
+  
+    {% for post in site.posts limit:15 %}
+      <article class="post">{{ post.content }}</article>
+    {% endfor %}
+
+</div>
