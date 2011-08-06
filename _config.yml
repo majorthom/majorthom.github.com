@@ -4,5 +4,5 @@ permalink:      /:year/:month/:day/:title
 lsi:            true
 source:         /_posts/
 destination:    ./
-paginate:       5
+paginate:       true
 
