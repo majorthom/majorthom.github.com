@@ -1,0 +1,13 @@
+---
+layout:	post
+category: link
+title: Fauxgo
+date: '2011-08-06 04:00'
+---
+
+#	[FAUXGO][]
+
+>	A fauxgo (fake logo) is a symbol or other small design created to represent a fictional company that exists only on film.
+
+[Fauxgo]: http://fauxgo.com/
+	"Fauxgo"
