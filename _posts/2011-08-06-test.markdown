@@ -2,7 +2,7 @@
 layout:	post
 category: link
 title: test
-date: '2011-08-06 11:12'
+
 ---
 
 #	test
