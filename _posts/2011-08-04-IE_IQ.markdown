@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:link
 category: link
 title: IE IQ
 ---
