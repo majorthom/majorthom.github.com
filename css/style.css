@@ -275,6 +275,7 @@ blockquote {
 
 blockquote p {
 	padding-bottom: 0px;
+	margin-bottom: 12px;
 }
 
 a {
@@ -285,8 +286,20 @@ a {
 	border-bottom: 1px dotted #839496;
   }
 
-cite {
+em {
+    font-style: italic;
+}
 
+cite:before {
+    content: "(via "
+}
+cite:after {
+    content: ")"
+}
+cite {
+    font-style: italic;
+    color: #839496;
+    font-size: 85%;
 }
 
 

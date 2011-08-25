@@ -1,7 +1,5 @@
-markdown:       rdiscount
-pygments:       true
-permalink:      /:year/:month/:day/:title
-lsi:            true
-
-
-
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title
+auto: true
+server: true

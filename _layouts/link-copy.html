@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div id="test">
+   {% for post in site.posts %}
+   <article class="post">
+      <dl>
+         <dt><h1><a href="{{ post.link }}" alt="{{ post.title }}">{{ post.title }}</a></h1></dt>
+         <dd>{{ post.content }}</dd>
+      </dl>
+   </article>
+   {% endfor %}
+</div>

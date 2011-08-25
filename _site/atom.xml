@@ -4,7 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2011-08-04T05:04:29-05:00</updated>
+ <updated>2011-08-25T03:52:39-05:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -13,43 +13,220 @@
 
  
  <entry>
-   <title>test</title>
-   <link href="http://tom.preston-werner.com/2011/08/04/test"/>
-   <updated>2011-08-04T00:00:00-05:00</updated>
-   <id>http://tom.preston-werner.com/2011/08/04/test</id>
-   <content type="html">&lt;h1&gt;&lt;a href=&quot;https://github.com/mojombo/jekyll/&quot; title=&quot;jekyll&quot;&gt;Jekyll&lt;/a&gt;&lt;/h1&gt;
+   <title>Copyright</title>
+   <link href="http://tom.preston-werner.com/2011/08/25/03-copyright"/>
+   <updated>2011-08-25T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/25/03-copyright</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://quietube.com/v.php/http://www.youtube.com/watch?v=tk862BbjWx4&amp;amp;feature=player_embedded&quot; title=&quot;Copyright: Forever Less One Day&quot;&gt;Copyright: Forever Less One Day&lt;/a&gt;&lt;/h1&gt;
 
-&lt;p&gt;Testing Jekyll and github as a platform.&lt;/p&gt;
+&lt;p&gt;The state of copyright explained in 6 minutes&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>test2</title>
-   <link href="http://tom.preston-werner.com/2011/08/04/secondtest"/>
-   <updated>2011-08-04T00:00:00-05:00</updated>
-   <id>http://tom.preston-werner.com/2011/08/04/secondtest</id>
-   <content type="html">&lt;h1&gt;Testing&lt;/h1&gt;
+   <title>No Escape</title>
+   <link href="http://tom.preston-werner.com/2011/08/25/02-no-espace"/>
+   <updated>2011-08-25T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/25/02-no-espace</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://quietube.com/v.php/http://www.youtube.com/watch?v=4drucg1A6Xk&amp;amp;feature=player_embedded&quot; title=&quot;Portal: No Escape&quot;&gt;Portal: No Escape&lt;/a&gt;&lt;/h1&gt;
 
-&lt;p&gt;A second test.&lt;/p&gt;
+&lt;p&gt;Never played portal. But, this is a pretty awesome short by &lt;a href=&quot;http://www.dantrachtenberg.com&quot; title=&quot;Dan Trachtenberg&quot;&gt;Dan Trachtenberg&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>last test</title>
-   <link href="http://tom.preston-werner.com/2011/08/04/lasttest"/>
-   <updated>2011-08-04T00:00:00-05:00</updated>
-   <id>http://tom.preston-werner.com/2011/08/04/lasttest</id>
-   <content type="html">&lt;h1&gt;Final&lt;/h1&gt;
+   <title>Steve Jobs Resigns</title>
+   <link href="http://tom.preston-werner.com/2011/08/25/01-steve-jobs"/>
+   <updated>2011-08-25T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/25/01-steve-jobs</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.apple.com/pr/library/2011/08/24Letter-from-Steve-Jobs.html&quot; title=&quot;Apple &amp;mdash; Letter from Steve Jobs&quot;&gt;Letter from Steve Jobs&lt;/a&gt;&lt;/h1&gt;
 
-&lt;p&gt;A last test.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;  To the Apple Board of Directors and the Apple Community:&lt;/p&gt;
+
+&lt;p&gt;  I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple’s CEO, I would be the first to let you know. Unfortunately, that day has come.&lt;/p&gt;
+
+&lt;p&gt;  I hereby resign as CEO of Apple. I would like to serve, if the Board sees fit, as Chairman of the Board, director and Apple employee.&lt;/p&gt;
+
+&lt;p&gt;  As far as my successor goes, I strongly recommend that we execute our succession plan and name Tim Cook as CEO of Apple.&lt;/p&gt;
+
+&lt;p&gt;  I believe Apple’s brightest and most innovative days are ahead of it. And I look forward to watching and contributing to its success in a new role.&lt;/p&gt;
+
+&lt;p&gt;  I have made some of the best friends of my life at Apple, and I thank you all for the many years of being able to work alongside you.&lt;/p&gt;
+
+&lt;p&gt;  Steve&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tea Party more unpopular than Atheists</title>
+   <link href="http://tom.preston-werner.com/2011/08/18/02-tea-party"/>
+   <updated>2011-08-18T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/18/02-tea-party</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.nytimes.com/2011/08/17/opinion/crashing-the-tea-party.html?ref=teapartymovement&quot; title=&quot;Crashing the Tea Party&quot;&gt;Tea Party less popular than Atheists&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt; Ironically, the conservative movement is now more unpopular than two often-marginalized groups it sometimes rails against &amp;mdash; Muslims and atheists &amp;mdash; and is the least popular of the 23 groups the poll asked about&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;cite&gt;&lt;a href=&quot;http://thinkprogress.org/politics/2011/08/17/297731/poll-tea-party-muslims/&quot; title=&quot;ThinkProgress&quot;&gt;ThinkProgress&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Apologist</title>
+   <link href="http://tom.preston-werner.com/2011/08/18/01-apologist"/>
+   <updated>2011-08-18T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/18/01-apologist</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://thisismynext.com/2011/08/16/fusion-garage-grid-10-pictures-video-preview/&quot; title=&quot;Grid 10 preview&quot;&gt;Apologist&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Dieter Bohn from &lt;a href=&quot;http://thisismynext.com&quot; title=&quot;This is my next&quot;&gt;&lt;em&gt;This is my next&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Taking a look at the pinch-to-zoom action, it's very, very responsive. Really impressed with what they've managed to do here.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;That choppy animation that can't track your fingers is responsive? How about those gestures that you couldn't even make work? The accompanying text at least seems more pragmatic.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ignoring Ron Paul</title>
+   <link href="http://tom.preston-werner.com/2011/08/17/01-ignoring-ron-paul"/>
+   <updated>2011-08-17T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/17/01-ignoring-ron-paul</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.thedailyshow.com/watch/mon-august-15-2011/indecision-2012---corn-polled-edition---ron-paul---the-top-tier&quot; title=&quot;The Daily Show&quot;&gt;Ignoring Ron Paul&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;I always thought of Ron Paul as the progenitor of the Tea Party. Although he's crazy (a doctor who doesn't believe in evolution), I always thought he did make valid points. However, if I had to vote for a Republican, I'd say we could do worse than another &lt;a href=&quot;http://www.garyjohnson2012.com/&quot; title=&quot;Gary Johnson 2012&quot;&gt;President Johnson&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>[OS X Lion] Sucks</title>
+   <link href="http://tom.preston-werner.com/2011/08/13/02-os-x-review"/>
+   <updated>2011-08-13T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/13/02-os-x-review</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://quietube.com/v.php/http://www.youtube.com/watch?v=ui9d7ZRlnBs&amp;amp;feature=player_embedded&quot; title=&quot;OS X Lion First Impressions: It Sucks&quot;&gt;It sucks&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;I don't think he likes Lion.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Future of NASA</title>
+   <link href="http://tom.preston-werner.com/2011/08/13/01-nasa"/>
+   <updated>2011-08-13T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/13/01-nasa</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://quietube.com/v.php/http://www.youtube.com/watch?v=OoW-gxakIU8&quot; title=&quot;The Future of NASA&quot;&gt;The Future of NASA&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Neil deGrasse Tyson:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt; How much would you pay for the universe?&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Uncle</title>
+   <link href="http://tom.preston-werner.com/2011/08/12/03-uncle"/>
+   <updated>2011-08-12T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/12/03-uncle</id>
+   <content type="html">&lt;h1&gt;Kennsington Ella Beck&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  2.78 kg; 52.07 cm&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Apparently I'm an uncle.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kindle Cloud Reader</title>
+   <link href="http://tom.preston-werner.com/2011/08/12/02-kindle-cloud"/>
+   <updated>2011-08-12T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/12/02-kindle-cloud</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;https://read.amazon.com/&quot; title=&quot;Cloud Reader&quot;&gt;Amazon.com announces Kindle Cloud Reader&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;amp;p=irol-newsArticle&amp;amp;ID=1595032&amp;amp;highlight=&quot; title=&quot;Introducing Kindle Cloud Reader&quot;&gt;News Release&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt; Today, Amazon.com announced Kindle Cloud Reader, its latest Kindle reading application that leverages HTML5 and enables customers to read Kindle books instantly using only their web browser - online or offline - with no downloading or installation required. As with all Kindle apps, Kindle Cloud Reader automatically synchronizes your Kindle library, as well as your last page read, bookmarks, notes, and highlights for all of your Kindle books, no matter how you choose to read them. Kindle Cloud Reader with its integrated touch optimized Kindle Store is available starting today for Safari on iPad, Safari on desktop and Chrome&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;So? It's cool, but why would you use this over the iPad app?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>US Debt</title>
+   <link href="http://tom.preston-werner.com/2011/08/12/01-us-debt"/>
+   <updated>2011-08-12T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/12/01-us-debt</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.quietube.com/v.php/http://www.youtube.com/watch?v=Jjv-MtGpj2U&amp;amp;feature=player_embedded&quot; title=&quot;US Debt Crisis&quot;&gt;US Debt Crisis&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt; The house of cards has already been built. There's no painless way to dismantle it now.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>More on Software Patents</title>
+   <link href="http://tom.preston-werner.com/2011/08/11/more-on-patents"/>
+   <updated>2011-08-11T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/11/more-on-patents</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://ignorethecode.net/blog/2011/08/08/more_on_software_patents/&quot; title=&quot;ignore the code: More on Software Patents&quot;&gt;More on software patents&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Lucas Mathias:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  So let’s turn this around. Nobody has ever told me exactly why the patent system is doing any good.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>jojo</title>
+   <link href="http://tom.preston-werner.com/2011/08/10/jojo"/>
+   <updated>2011-08-10T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/10/jojo</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://jojoproject.com/&quot; title=&quot;jojo&quot;&gt;jojo&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Jojo are the new &lt;a href=&quot;http://www.toms.com/&quot; title=&quot;Toms Shoes&quot;&gt;Toms&lt;/a&gt;. Shoes for a cause and you don't have to take someone's word for it. They allow you to monitor the progress of your contribution.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Star Wars Helmets</title>
+   <link href="http://tom.preston-werner.com/2011/08/07/star-wars-helmets"/>
+   <updated>2011-08-07T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/07/star-wars-helmets</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://quietube.com/v.php/http://www.youtube.com/watch?v=Qk_048JvrXc&amp;amp;feature=player_embedded&quot; title=&quot;Creating the Rebel Troop Helmets&quot;&gt;Creating the Rebel Troop Helmets&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Anyone want to give me £1000 to buy some of &lt;a href=&quot;http://www.sdsprops.com/&quot; title=&quot;Shepperton Design Studios&quot;&gt;this&lt;/a&gt;?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fauxgo</title>
+   <link href="http://tom.preston-werner.com/2011/08/06/fauxgo"/>
+   <updated>2011-08-06T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/06/fauxgo</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;http://fauxgo.com/&quot; title=&quot;Fauxgo&quot;&gt;FAUXGO&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  A fauxgo (fake logo) is a symbol or other small design created to represent a fictional company that exists only on film.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SE on SW Patents</title>
+   <link href="http://tom.preston-werner.com/2011/08/05/patent"/>
+   <updated>2011-08-05T00:00:00-05:00</updated>
+   <id>http://tom.preston-werner.com/2011/08/05/patent</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;https://plus.google.com/115705209878503324340/posts/JRfgQwFp3mc&quot; title=&quot;Andrew Beck - Google+&quot;&gt;A software engineer on software patents.&lt;/a&gt;&lt;/h1&gt;
+
+&lt;blockquote&gt;&lt;p&gt;  The implementation is in the source code. I can design a new engine for a
+  car that does the same job. Maybe my design is better, maybe it's worse; but
+  it doesn't infringe. Once you patented the shopping cart though. I can't
+  implement one. I could have a better one, one that does it in half the lines
+  of code; but you've patented the idea.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I'm not the most versed when it comes to patents and am sure in theory they're well and good, but don't understand them at all in practice. His argument makes a lot of sense.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>IE IQ</title>
-   <link href="http://tom.preston-werner.com/2011/08/04/IE_IQ"/>
+   <link href="http://tom.preston-werner.com/2011/08/04/IE-IQ"/>
    <updated>2011-08-04T00:00:00-05:00</updated>
-   <id>http://tom.preston-werner.com/2011/08/04/IE_IQ</id>
+   <id>http://tom.preston-werner.com/2011/08/04/IE-IQ</id>
    <content type="html">&lt;h1&gt;&lt;a href=&quot;http://www.bbc.co.uk/news/technology-14389430&quot; title=&quot;BBC News &amp;mdash; Internet Explorer story was bogus&quot;&gt;Internet Explorer story was bogus&lt;/a&gt;&lt;/h1&gt;
 
 &lt;blockquote&gt;&lt;p&gt;  A story which suggested that users of Internet Explorer have a lower IQ than
@@ -118,7 +295,7 @@
 
 &lt;p&gt;This is design perfection. I'm going to start sending this with every gift.&lt;/p&gt;
 
-&lt;p&gt;&lt;cite&gt;(&lt;a href=&quot;http://www.swiss-miss.com/2011/03/gift-complaint-form.html&quot; title=&quot;Gift Complaint Form&quot;&gt;via swissmiss&lt;/a&gt;)&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;&lt;a href=&quot;http://www.swiss-miss.com/2011/03/gift-complaint-form.html&quot; title=&quot;Gift Complaint Form&quot;&gt;swissmiss&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 </content>
  </entry>
  
